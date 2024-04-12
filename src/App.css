@@ -101,3 +101,26 @@ body {
   --padding-6xl: 25px;
   --padding-12xs: 1px;
 }
+
+.dark-datepicker {
+  background-color: #333;
+  color: #fff;
+  border: none;
+}
+
+.dark-datepicker-wrapper {
+  display: inline-block;
+}
+
+.dark-calendar {
+  background-color: #333;
+  color: #fff;
+}
+
+.slider__container {
+  transform: rotate(180deg);
+
+  .swiper-slide {
+    transform: rotate(180deg);
+  }
+}
