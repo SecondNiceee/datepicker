@@ -124,3 +124,9 @@ body {
     transform: rotate(180deg);
   }
 }
+.swiper{
+  height: 300px;
+}
+.swiper-wrapper{
+  height: 200px;
+}
